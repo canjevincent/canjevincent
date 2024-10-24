@@ -10,19 +10,19 @@
 
 **`Full-Stack Software Engineer`**
 <h3 align="center">A passionate Software Engineer from the Philippines</h3> 
-## About Me
+📝 About Me
 
- '' I’m a passionate and committed Full-Stack Software Engineer with a broad skill set across various programming languages and tools. I excel at crafting innovative, efficient solutions to complex challenges. My expertise covers front-end technologies such as Next and React Js, alongside back-end technologies including Django, Laravel, and Node.js. I’m also highly proficient in version control using Git and have a deep appreciation for Linux. Let’s work together to create exceptional software! 
+ ❤️‍🔥 I’m a passionate and committed Full-Stack Software Engineer with a broad skill set across various programming languages and tools. I excel at crafting innovative, efficient solutions to complex challenges. My expertise covers front-end technologies such as Next and React Js, alongside back-end technologies including Django, Laravel, and Node.js. I’m also highly proficient in version control using Git and have a deep appreciation for Linux. Let’s work together to create exceptional software! 
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=canjevincent&label=Profile%20views&color=0e75b6&style=flat" alt="canjevincent" />  </p> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=canjevincent" alt="canjevincent" /></a> </p>
 
-- 🚀 I’m currently working on ⭐Deep and Machine Learnings⭐
+- 🚀 I’m currently working on projects related on ⭐Machine Learning, Data Engineering & Web Services Integration⭐
 
-- 🌱 I’m currently learning ⭐Cyber Security, Data Forensics⭐
+- 🌩️ Managing multiple software deployments on ⭐AWS Cloud Services focused on Auto Scaling & Elastic Balancing⭐
 
-- 👯 I’m looking to collaborate on ⭐Other Web Base Applications⭐
+- 🤵🏻‍♂️ I would like to introduce myself as a proficient 😎Software Engineer😎 with over five years of experience. I have spearheaded the development of large-scale software solutions and deployed intuitive designs to meet customer requirements while exceeding project deadlines.
 
 - 💬 Lets talk about ⭐Django, Laravel, Next Js and AWS | Secure Cloud Services⭐
 
