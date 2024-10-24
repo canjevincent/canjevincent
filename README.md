@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Vincent Canje</h1>
+<h1 align="center">Hi 👋, I'm Vincent Canje ⚛️</h1>
 
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
 [![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)](https://github.com/platane/snk/releases/latest)
@@ -8,25 +8,25 @@
 ![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
 ![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
 
-**`Full-Stack Developer`**
-<h3 align="center">A passionate FullStack developer from Philippines</h3> 
+**`Full-Stack Software Engineer`**
+<h3 align="center">A passionate Software Engineer from the Philippines</h3> 
 ## About Me
 
- '' I'm a passionate and dedicated **Full-Stack Developer** with a strong background in a wide range of programming languages and tools. I thrive on creating innovative and efficient solutions to complex problems. My expertise spans from front-end technologies like Angular and React to back-end technologies like Java, Spring, and Node.js. I'm also well-versed in version control using Git, and I'm a Linux enthusiast. Let's collaborate and build amazing software together! 
+ '' I’m a passionate and committed Full-Stack Software Engineer with a broad skill set across various programming languages and tools. I excel at crafting innovative, efficient solutions to complex challenges. My expertise covers front-end technologies such as Next and React Js, alongside back-end technologies including Django, Laravel, and Node.js. I’m also highly proficient in version control using Git and have a deep appreciation for Linux. Let’s work together to create exceptional software! 
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=canjevincent&label=Profile%20views&color=0e75b6&style=flat" alt="canjevincent" />  </p> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=canjevincent" alt="canjevincent" /></a> </p>
 
-- 🔭 I’m currently working on **Deep and Machine Learnings**
+- 🚀 I’m currently working on ⭐Deep and Machine Learnings⭐
 
-- 🌱 I’m currently learning **Cyber Security, Data Forensics etc...**
+- 🌱 I’m currently learning ⭐Cyber Security, Data Forensics⭐
 
-- 👯 I’m looking to collaborate on **Other Web Base Applications**
+- 👯 I’m looking to collaborate on ⭐Other Web Base Applications⭐
 
-- 💬 Ask me about **React, Vue and JS**
+- 💬 Lets talk about ⭐Django, Laravel, Next Js and AWS | Secure Cloud Services⭐
 
-- 📫 How to reach me **Tallada88@gmail.com**
+- 📫 How to reach me ⭐canjevincent@gmail.com⭐
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
